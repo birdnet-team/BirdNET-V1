@@ -1,8 +1,12 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# This repository is deprecated
+# ⚠️ Repository Deprecated  
 
-Please take a look at our latest BirdNET repository with updated models, tools and interfaces: [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) 
+This repository is no longer maintained. We won't be responding to issues or accepting pull requests.  
+
+For the latest models, tools, and interfaces, please check out our BirdNET-Analyzer repository: [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer).  
+
+Thanks for your support! 🚀
 
 # BirdNET Soundscape Analysis
 By [Stefan Kahl](https://github.com/kahst), [Shyam Madhusudhana](https://www.birds.cornell.edu/brp/shyam-madhusudhana/), and [Holger Klinck](https://www.birds.cornell.edu/brp/holger-klinck/)
